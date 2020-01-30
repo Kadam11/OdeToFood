@@ -1,0 +1,5 @@
+C:\Users\kadam.prajapati\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\kadam.prajapati\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+C:\Users\kadam.prajapati\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+C:\Users\kadam.prajapati\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+C:\Users\kadam.prajapati\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
